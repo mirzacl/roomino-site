@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roominogame.com/sitemap.xml
